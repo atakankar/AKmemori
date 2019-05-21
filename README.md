@@ -28,4 +28,8 @@ Veritabanında kayıtlı olan kelimeleri kullanıcıya öğretmek.Kullanıcı ta
 ### Kelime Haznesi Sayfası
 ![all text](https://github.com/atakankar/Yazilim-Yapimi-Proje/blob/master/Screenshots/G%C3%B6r%C3%BCnt%C3%BCle.png?raw=true)
 
+### Yeni Kelime Ekleme Sayfası
+![all text](https://github.com/atakankar/Yazilim-Yapimi-Proje/blob/master/Screenshots/Ekleme.png?raw=true)
 
+### İstatistik Sayfası
+![all text](https://github.com/atakankar/Yazilim-Yapimi-Proje/blob/master/Screenshots/%C4%B0statistik.png?raw=true)
