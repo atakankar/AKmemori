@@ -1,16 +1,13 @@
 # Yazilim-Yapimi-Proje
-## Kullanılan Teknolojiler
-Programming Language : C# <br>
-Framework : metroframework <br>
-Database : Sqlite3 <br>
+Yazılım yapımı proe ödevi için C# proglama dilinde SQLite veritabanı kullanılarak yazılmış bir programdır.
 
 ## Projenin Amacı 
-Veritabanında kayıtlı olan kelimeleri kullanıcıya öğretmek.Kullanıcı tarafından öğrenilen kelimeler belirli zaman aralıklaryla sorularak berlenmesini sağlmak.
+Veritabanı kullanılarak kullanıcıya kelime öğrenmesi-ezberlemesi için kolay kullanıma uygun, kullanıcı dostu bir program geliştirmek. 
 
 ## Projenin İçeriği
--Kullanıcı tarafından öğrenilen kelimeler belirli zaman aralıklaryla sorulur. <br>
--Sorulan kelimler bildiği günden sonraki, 1 hafta , 1 ay ve 6 ay sonra olmak üzere üç kez sorulur. <br>
--6 ayın sonunda kelime ezberlenmiş kabul edilir. <br>
+-Kullanıcının kelimeleri öğrenmesini sağlar ve kelime ezberlenene kadar belirli zaman aralıklarıyla sorulur.<br>
+-Kelimelerin sorulma aralıkları bildiği günden sonraki gün, 1 hafta, 1 ay ve 6 ay sonra şeklindedir. <br>
+-6. ayın sonunda da kelimeyi doğru bilirse 5. seviye ulaşır ve 5. seviyeye ulaşan kelime ezberlemiş kabul edilir. <br>
 -Kullanıcı isterse veritabanına yeni kelimeler ekleyebilir, veritabanındaki kayıtlı kelimeleri görüntüleyebilir. <br>
 -İstatistik sayfasından son 4 ay içerisinde ezberlenmiş kelimelerin sayısını grafik şeklinde görebilir. <br>
 -Ayrıca istediği ay ve yıldaki ezberlenmiş kelime sayısını görüntüleyebilir.<br>
