@@ -17,3 +17,15 @@ Veritabanında kayıtlı olan kelimeleri kullanıcıya öğretmek.Kullanıcı ta
 
 ## Ekran Görüntüleri
 ### Anasayfa
+![all text](https://github.com/atakankar/Yazilim-Yapimi-Proje/blob/master/Screenshots/anasayfa.png?raw=true)
+
+### Öğrenme Sayfası
+![all text](https://github.com/atakankar/Yazilim-Yapimi-Proje/blob/master/Screenshots/ogren.png?raw=true)
+
+### Test Sayfası
+![all text](https://github.com/atakankar/Yazilim-Yapimi-Proje/blob/master/Screenshots/Test.png?raw=true)
+
+### Kelime Haznesi Sayfası
+![all text](https://github.com/atakankar/Yazilim-Yapimi-Proje/blob/master/Screenshots/G%C3%B6r%C3%BCnt%C3%BCle.png?raw=true)
+
+
